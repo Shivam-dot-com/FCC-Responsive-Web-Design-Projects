@@ -102,7 +102,6 @@ header {
 }
 
 /* form */
-
 form {
     background: var(--color-darkblue-alpha);
     padding: 2.5rem 0.625rem;
@@ -165,5 +164,5 @@ form {
 }
 
 .submit-button:hover {
-    transform: translateY(10px);
+    background: var(--color-darkblue);
 }
