@@ -1,0 +1,19 @@
+body {
+    position: relative;
+}
+
+@media screen and (min-width:800px) {
+    body {
+        background: black;
+        color: white;
+    }
+}
+
+#welcome-section {
+    height: 100vh;
+}
+
+#navbar {
+    position: sticky;
+    top: 0;
+}
